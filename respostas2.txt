@@ -1,1 +1,1 @@
-Um arquivo README  é um documento de texto que serve como um guia introdutório e de documentação para um projeto de repositório. 
+O git merge é o comando para unificar as alterações de duas ou mais branches, combinando o histórico de desenvolvimento. Os tipos de merge no Git são o fast-forward e o three-way
